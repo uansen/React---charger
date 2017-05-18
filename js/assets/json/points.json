@@ -1,0 +1,47 @@
+{
+    "count": 412,
+    "pageNo": 1,
+    "pageSize": 10,
+    "list": [
+      {
+        "id": "mdmid",
+        "longitude": "12.34",
+        "latitude": "45.67",
+        "status": 1,
+        "name": "东华创意园",
+        "address": "上海市长宁区杨宅路999号",
+        "distance": 1810.0,
+        "number": 10
+      },
+      {
+        "id": "mdmid",
+        "longitude": "12.34",
+        "latitude": "45.67",
+        "status": 1,
+        "name": "东华创意园",
+        "address": "上海市长宁区杨宅路999号",
+        "distance": 1810.0,
+        "number": 10
+      },
+      {
+        "id": "mdmid",
+        "longitude": "12.34",
+        "latitude": "45.67",
+        "status": 1,
+        "name": "东华创意园",
+        "address": "上海市长宁区杨宅路999号",
+        "distance": 1810.0,
+        "number": 10
+      },
+      {
+        "id": "mdmid",
+        "longitude": "12.34",
+        "latitude": "45.67",
+        "status": 1,
+        "name": "东华创意园",
+        "address": "上海市长宁区杨宅路999号",
+        "distance": 1810.0,
+        "number": 10
+      },
+    ]
+}

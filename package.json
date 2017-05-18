@@ -1,0 +1,48 @@
+{
+  "name": "EVCharger",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "startios": "react-native run-ios"
+  },
+  "dependencies": {
+    "apsl-react-native-button": "3.0.0",
+    "immutable": "3.7.5",
+    "keymirror": "0.1.1",
+    "lodash": "^4.0.0",
+    "react": "15.3.1",
+    "react-native": "0.32.0",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-country-picker-modal": "0.2.0",
+    "react-native-drawer": "^2.2.6",
+    "react-native-i18n": "0.0.6",
+    "react-native-linear-gradient": "^1.5.12",
+    "react-native-map-linking": "^1.0.1",
+    "react-native-maps": "0.8.2",
+    "react-native-open-share": "git+https://github.com/mozillo/react-native-open-share.git",
+    "react-native-progress": "^3.1.0",
+    "react-native-qrcode": "0.2.2",
+    "react-native-router-flux": "3.31.0",
+    "react-native-smart-pull-to-refresh-listview": "^1.0.14",
+    "react-native-storage": "^0.1.4",
+    "react-native-vector-icons": "2.0.3",
+    "react-native-flip-view": "1.0.5",
+    "react-native-wx": "^2.0.1",
+    "react-redux": "4.4.5",
+    "redux": "~3.2.1",
+    "redux-immutablejs": "0.0.8",
+    "redux-logger": "~2.5.0",
+    "redux-thunk": "~1.0.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.1.0",
+    "eslint-plugin-prefer-object-spread": "^1.1.0",
+    "eslint-plugin-react": "^6.1.2",
+    "eslint-plugin-async-await": "0.0.0"
+  }
+}

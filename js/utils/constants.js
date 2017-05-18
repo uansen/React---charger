@@ -1,0 +1,4 @@
+export default {
+  DEFAULT_AJAX_TIMEOUT: 30000,
+  ERROR_TIP_DELAY: 3000
+};

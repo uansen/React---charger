@@ -1,0 +1,7 @@
+{
+  "id": "mdmid",
+  "type": 1,
+  "ratedCurrent":"4.67",//额定电流A
+  "ratedPower":1000,//额定功率W
+  "status":1//充电枪状态，0：未使用；1：使用中
+}
